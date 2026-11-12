@@ -12,6 +12,7 @@ body {
   background-color: #F4F7FD;
   line-height: 1.5;
   margin: 0;
+  box-sizing: border-box;
 }
 
 h1, h2, h3 {
